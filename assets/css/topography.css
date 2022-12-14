@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "de";
+    src: url('../fonts/BPG-2017-DejaVuSans.ttf');
+}
+
+body, input {
+    font-family: "de";
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 3rem;
+}
