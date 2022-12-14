@@ -1,0 +1,50 @@
+/*******************
+eggs by iarumas!
+********************/
+
+.container {
+    max-width: 1440px;
+    margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.vh-100 {
+    min-height: calc(100vh - 60px);
+}
+
+.d-flex {
+    display: flex;
+}
+
+.text-muted {
+    color: #7A7067;
+}
+
+/* Sizing */
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.mt-3 {
+    margin-top: 3rem;
+}
+
+.mt-4 {
+    margin-top: 4rem;
+}
+
+.mt-5 {
+    margin-top: 5rem;
+}
