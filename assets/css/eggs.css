@@ -35,7 +35,7 @@ eggs by iarumas!
     color: #7A7067;
 }
 
-.login{
+.login {
     max-width: 350px;
     margin: 4rem auto 0 auto;
 }
@@ -44,7 +44,21 @@ eggs by iarumas!
     width: 100%;
 }
 
+a {
+    color: #BFB3A8;
+    margin-top: 10rem;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #E6DFD9;
+}
+
 /* Sizing */
+
+.mt-1 {
+    margin-top: 1rem;
+}
 
 .mt-2 {
     margin-top: 2rem;
