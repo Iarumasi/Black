@@ -19,6 +19,10 @@ eggs by iarumas!
     text-align: center;
 }
 
+.w-100 {
+    width: 100%;
+}
+
 .vh-100 {
     min-height: calc(100vh - 60px);
 }
@@ -29,6 +33,15 @@ eggs by iarumas!
 
 .text-muted {
     color: #7A7067;
+}
+
+.login{
+    max-width: 350px;
+    margin: 4rem auto 0 auto;
+}
+
+.form-group {
+    width: 100%;
 }
 
 /* Sizing */

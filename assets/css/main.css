@@ -22,34 +22,34 @@ body {
 input {
     width: 100%;
     box-sizing: border-box;
-}
 
-input[type="text"] {
     background-color: transparent;
     border: 0;
-    border-bottom: 1px solid #7A7067;
-    padding: 8px 2px;
     /* border-radius: 25rem; */
+    border-bottom: 1px solid #7A7067;
+    padding: 12px 16px;
     color: #E6DFD9;
+    margin-bottom: 1rem;
 }
 
 input:focus {
     outline: none;
-    border-bottom: 1px solid #E6DFD9;
+    border: 1px solid #E6DFD9;
 }
 
 button {
-    background: none;
+    background-color: rgba(255, 255, 255, 0.05);
     color: #BFB3A8;
     border: 0;
-    border-bottom: 1px solid #7A7067;
-    padding: 8px 2px;
+    border-radius: 25rem;
+    border: 1px solid #7A7067;
+    padding: 12px 16px;
 }
 
 button:hover {
     cursor: pointer;
     color: #E6DFD9;
-    border-bottom: 1px solid #E6DFD9;
+    border: 1px solid #E6DFD9;
 }
 
 /* end of forms */
